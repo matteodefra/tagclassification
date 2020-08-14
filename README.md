@@ -1,4 +1,4 @@
-# tagclassification
+# Tag Classification
 My final project for Bachelor's thesis, an implementation of a neural network for category classification of popular site StackOverflow
 ## Introduction
 I studied the problem of category classification on [StackOverflow](https://stackoverflow.com/). After a preliminary analysis on the data and the different categories categories and distributions, I ended up creating a C-LSTM neural network.
